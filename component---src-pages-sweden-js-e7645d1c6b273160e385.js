@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{BSzl:function(e,a,n){"use strict";n.r(a);var t=n("q1tI"),l=n.n(t),c=n("Bl7J"),r=n("EYWl"),s=n("LrfF");a.default=function(){return l.a.createElement(c.a,null,l.a.createElement(r.a,null),"asdasd",l.a.createElement("div",{className:"copyright-section"},l.a.createElement(s.a,null)))}}}]);
+//# sourceMappingURL=component---src-pages-sweden-js-e7645d1c6b273160e385.js.map
